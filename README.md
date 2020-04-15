@@ -83,5 +83,4 @@ sudo git pull origin master
 sudo docker-compose  up --build -d
 ```
 # Video Demo
-    [![Ver en youtube](https://img.youtube.com/vi/u4S9xrW2Je0/0.jpg)](https://youtu.be/u4S9xrW2Je0)
-    
+   [![Ver en youtube](https://img.youtube.com/vi/u4S9xrW2Je0/0.jpg)](https://youtu.be/u4S9xrW2Je0)
