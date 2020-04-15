@@ -7,6 +7,11 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello world!'
 
+
+@app.route('/despliegue')
+def hello_world():
+    return 'Funciono despliegue'
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
-    
