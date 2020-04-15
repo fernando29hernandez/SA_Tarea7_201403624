@@ -9,7 +9,7 @@ def hello_world():
 
 
 @app.route('/despliegue')
-def hello_world():
+def funcion2():
     return 'Funciono despliegue'
 
 
